@@ -12,6 +12,7 @@ Servlet处理请求
 JDBC 连接数据库
 lombok 注解提供实体类的get、set等方法
 tomcat 服务器软件运行后端代码
+MD5  给密码做加密处理
 
 
 

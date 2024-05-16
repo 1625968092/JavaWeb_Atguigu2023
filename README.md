@@ -7,6 +7,7 @@
 
 后端 ：
 
+jackson 处理JSON字符串
 Servlet处理请求
 JDBC 连接数据库
 lombok 注解提供实体类的get、set等方法

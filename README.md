@@ -22,5 +22,7 @@ vite开发工具提供目录结构
 pinia 为公共存储数据
 vue-router 提供跳转
 
+axios 进行异步传参
+
 
 element plus提供各种图标工具，直接引用

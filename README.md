@@ -1,6 +1,8 @@
 # JavaWeb_Atguigu2023
 教程地址：https://www.bilibili.com/video/BV1UN411x7xe
 
+《日程管理项目》
+
 前后端分离项目
 
 使用json串通信

@@ -9,13 +9,13 @@
 
 后端 ：
 
-jackson 处理JSON字符串
-Servlet处理请求
-JDBC 连接数据库
-lombok 注解提供实体类的get、set等方法
-tomcat 服务器软件运行后端代码
-MD5  给密码做加密处理
-CORS过滤器 跨域过滤器，处理预检请求，放行前端请求。
+jackson 处理JSON字符串<br>
+Servlet处理请求<br>
+JDBC 连接数据库<br>
+lombok 注解提供实体类的get、set等方法<br>
+tomcat 服务器软件运行后端代码<br>
+MD5  给密码做加密处理<br>
+CORS过滤器 跨域过滤器，处理预检请求，放行前端请求。<br>
 
 
 前端  VUE代码
